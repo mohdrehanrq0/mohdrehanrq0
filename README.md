@@ -43,16 +43,23 @@
 
 ---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="rehan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohdrehanrq0&show_icons=true&hide_border=true" />
 
-</details>
+<br />
+<br />
+
+---
 
 <a href="https://github.com/mohdrehanrq0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrehanrq0&theme=radical&hide=html" />
 </a>
+
+<br />
+<br />
+
+---
 
 [website]: https://mohdrehanrq0.github.io/rehan_portfolio/
 [twitter]: https://twitter.com/MohdRehanQure12
@@ -64,8 +71,14 @@
   <img src="https://profile-counter.glitch.me/mohdrehanrq0/count.svg" />
 </p>
 
+<br /><br />
+
+---
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+<br /><br />
