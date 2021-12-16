@@ -1,7 +1,7 @@
 ### Hi there, I'm Rehan [Portfolio][website] 👋 
 
 [![Website](https://img.shields.io/website?label=mohdrehanrq0.github.io/rehan_portfolio/&style=for-the-badge&url=https%3A%2F%2Fmohdrehanrq0.github.io/rehan_portfolio/)](https://mohdrehanrq0.github.io/rehan_portfolio/)
-[![Linkdin Follow](https://img.shields.io/linkdin/follow/mrqdev?color=0e76a8&logo=linkdin&style=for-the-badge)](https://www.linkedin.com/in/mrqdev/)
+[![Linkdin Follow](https://img.shields.io/badge/Linkdin-1000-%230072b1)](https://www.linkedin.com/in/mrqdev/)
 
 ## I'm a Web Developer | Cyber Security Enthusiast | AI and ML Learner  !!
 
