@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developer
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Build Something great
 - ⚡ Fun fact: I love to play a mobile games
 
 ### Connect with me:
